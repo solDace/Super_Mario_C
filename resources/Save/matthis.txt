@@ -1,0 +1,9 @@
+Lv1 = 23100
+Lv2 = 29650
+Lv3 = 23750
+Lv4 = 23650
+Lv5 = 20150
+Name = matthis
+nb_coins = 15
+try_remaining = 5
+level = 1-5

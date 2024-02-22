@@ -1,0 +1,9 @@
+Lv1 = 24300
+Lv2 = 25100
+Lv3 = 24500
+Lv4 = 21900
+Lv5 = 20450
+Name = thomas
+nb_coins = 16
+try_remaining = 3
+level = 1-5

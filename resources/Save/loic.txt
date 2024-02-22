@@ -1,0 +1,9 @@
+Lv1 = 22250
+Lv2 = 25050
+Lv3 = 0
+Lv4 = 0
+Lv5 = 22000
+Name = loic
+nb_coins = 34
+try_remaining = 3
+level = 1-3
